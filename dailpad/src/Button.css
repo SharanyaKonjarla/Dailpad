@@ -1,0 +1,21 @@
+.button {
+    background-color: #3090C7;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    margin: 5px 5px;
+    cursor: pointer;
+    width: 60px;
+    height: 60px;
+  
+  }
+ 
+  .button1 {border-radius: 50%;}
+  .button1:hover {
+    background-color: rgba(0,0,0,.9);
+    color: white;
+  }
